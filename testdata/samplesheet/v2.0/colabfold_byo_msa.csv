@@ -1,0 +1,2 @@
+id,fasta,msa
+H1065,https://raw.githubusercontent.com/Australian-Structural-Biology-Computing/test-datasets/proteinfold/testdata/sequences/H1065.fasta,https://raw.githubusercontent.com/Australian-Structural-Biology-Computing/test-datasets/proteinfold/testdata/sequences/colabfold_byo_multimer.a3m
